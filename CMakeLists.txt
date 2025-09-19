@@ -14,4 +14,14 @@ add_executable(The_C_Programing_Project main.cpp
         C-Programming/Introduction/LogicalOperator.c
         C-Programming/Introduction/BitWiseOperator.c
         C-Programming/Introduction/AssignmentOperator.c
-        C-Programming/Introduction/OtherOperators.c)
+        C-Programming/Introduction/OtherOperators.c
+        C-Programming/Conditionals/IfConditions.c
+        C-Programming/Conditionals/If-Else.c
+        C-Programming/Conditionals/NesteIf.c
+        C-Programming/Conditionals/If-Else-Ladder.c
+        C-Programming/Conditionals/SwitchStmt.c
+        C-Programming/Conditionals/ConditionalOperator.c
+        C-Programming/Conditionals/BreakStmt.c
+        C-Programming/Conditionals/ContinueStmt.c
+        C-Programming/Conditionals/GotoStmt.c
+        C-Programming/Conditionals/ReturnStmt.c)
